@@ -12,6 +12,12 @@ This repository demonstrates the implementation of various Material Buttons usin
 
 Each button showcases different Material Design styles and behaviors.
 
+
+## Screenshots
+
+<img src="https://github.com/Bhavyansh03-tech/Material3_Buttons/assets/96388594/d9c3851a-3edf-4d0f-9948-9966b8033bc8" alt="Second Flow Row" style="width: 200px; height: auto;">
+
+
 ## Getting Started
 
 1. Clone the repository:
@@ -22,10 +28,6 @@ git clone https://github.com/Bhavyansh03-tech/Material3_Buttons.git
 
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
-
-## Screenshots
-
-<img src="https://github.com/Bhavyansh03-tech/Material3_Buttons/assets/96388594/d9c3851a-3edf-4d0f-9948-9966b8033bc8" alt="Second Flow Row" style="width: 200px; height: auto;">
 
 
 ## Implementation
